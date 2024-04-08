@@ -1,7 +1,17 @@
-### Hi there 👋
+<header align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grapefruit13&show_icons=true&theme=radical)
+</header>
+
+<p>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=I'm+Lim🍀&font=Redressed&size=32)](https://git.io/typing-svg)
+  
+</p>
+
+![lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=grapefruit13&show_icons=true&theme=dark)
 
 <!--
 **grapefruit13/grapefruit13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
