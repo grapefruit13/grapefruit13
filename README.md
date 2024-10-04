@@ -2,9 +2,8 @@
 ===============================
 ### Web Developer
 * 🌍 I'm based in Seoul, Korea
-* 🚀 I'm currently working on <a href='https://github.com/sprint-team3/GGF-Design-System'>GGF Design System</a><br>
-* 🧠 I'm studying TypeScript
-* 📖 I'm reading <a href='https://martinfowler.com/books/refactoring.html'>Refactoring</a> at the moment<br>
+* 🚀 I'm currently working on <a href='https://github.com/devping-kr/NNplanner-FE'>NN Planner(냠냠 플래너)</a> which offers meal managment service for nutritionists working at hospital and school.<br>
+* 🧠 I'm studying TypeScript, Tailwind CSS.
 * 🤝 I'm open to collaborating on exciting projects as a frontend developer
 
 ### Skills
