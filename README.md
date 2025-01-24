@@ -11,8 +11,6 @@
 
 - 📝 I regularly write articles on [https://lim-log.vercel.app/](https://lim-log.vercel.app/)
 
-- 📫 How to reach me **liamh0218@gmail.com**
-
 <p align="left">
 </p>
 
