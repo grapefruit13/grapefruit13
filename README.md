@@ -4,13 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grapefruit13&label=Profile%20views&color=0e75b6&style=flat" alt="grapefruit13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grapefruit13" alt="grapefruit13" /></a> </p>
-
-- 🔭 I’m currently working on [NNplanner](https://github.com/devping-kr/NNplanner-FE)
-
-- 👯 I’m looking to collaborate on **anything fun**
-
-- 📝 I regularly write articles on [https://lim-log.vercel.app/](https://lim-log.vercel.app/)
-
 <p align="left">
 </p>
 
