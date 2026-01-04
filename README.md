@@ -3,5 +3,5 @@
 </div>
 
 - A Problem Solver
-- interested in making the world better place with technology
+- interested in making the world a better place with technology
 
